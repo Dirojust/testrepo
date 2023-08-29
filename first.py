@@ -1,1 +1,1 @@
-Adding a new file
+print("New file here!")
